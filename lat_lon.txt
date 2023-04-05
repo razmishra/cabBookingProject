@@ -1,0 +1,13 @@
+location      		lat 			lon
+
+vasaiPhata   	19.366636 		72.816101
+vasaiStation	19.393345		72.862427
+virarStation	19.4540638		72.7688176
+nspStation		19.4178358		72.8101757
+kandivaliStation 19.2045299		72.8519955
+santoshBhuvan	19.432278		72.774300
+goregaon		19.1663			72.8526
+cst				18.9398			72.8354
+gandhinagar		23.2156			72.6369
+marineLine		18.9431			72.8272
+bandraFort 		19.0419			72.8184
